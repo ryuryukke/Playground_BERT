@@ -13,7 +13,7 @@ BERTで遊んだ
   
  逐次的にBERTでマスク予測することで文章生成(あまりやってることには意味がない)
 
-# Referrence
+# References
 1. 「BERT日本語Pretrainedモデル」http://nlp.ist.i.kyoto-u.ac.jp/?ku_bert_japanese　
 2. 「hugging face transformer」https://github.com/huggingface/transformers 
 
