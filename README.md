@@ -1,13 +1,16 @@
 # Playground_BERT
 BERTで遊んだ
 
-  bertJapanese.py
+- bertJapanese.py
+  
  日本語文におけるマスク予測
  
-  bertForMaskedLM.py
+- bertForMaskedLM.py
+  
  英文におけるマスク予測(自作クラス)
  
-  BertMakeSentence.py
+- BertMakeSentence.py
+  
  逐次的にBERTでマスク予測することで文章生成(あまりやってることには意味がない)
 
 # Referrence
