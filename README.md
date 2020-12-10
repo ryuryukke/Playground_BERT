@@ -2,5 +2,6 @@
 BERTで遊んだ
 
 # Referrence
-1. http://nlp.ist.i.kyoto-u.ac.jp/?ku_bert_japanese　BERT日本語Pretrainedモデル
-2. https://github.com/huggingface/transformers hugging face transformer
+1. 「BERT日本語Pretrainedモデル」http://nlp.ist.i.kyoto-u.ac.jp/?ku_bert_japanese　
+2. 「hugging face transformer」https://github.com/huggingface/transformers 
+
