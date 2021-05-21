@@ -1,17 +1,17 @@
 # Playground_BERT
-BERTで遊んだ
+Playing with BERT!
 
 - bertJapanese.py
   
- 日本語文におけるマスク予測
+ Mask prediction in Japanese sentences
  
 - bertForMaskedLM.py
   
- 英文におけるマスク予測(自作クラス)
+ Mask prediction in English (using class)
  
 - BertMakeSentence.py
   
- 逐次的にBERTでマスク予測することで文章生成(あまりやってることには意味がない)
+ Sentence generation by sequential mask prediction with BERT
 
 # References
 1. 「BERT日本語Pretrainedモデル」http://nlp.ist.i.kyoto-u.ac.jp/?ku_bert_japanese　
